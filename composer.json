@@ -1,6 +1,6 @@
 {
     "name": "Clj/Protocol",
-    "keywords": [""],
+    "keywords": ["protocol"],
     "type": "library",
     "license": "MIT",
     
@@ -11,7 +11,7 @@
             "email": "peter.schuck@johnsonfit.com"
         }
     ],
-    "version": "1.0.0-beta",
+    "version": "1.0.0",
     "require": {
         "php": ">=5.3.0"
     },
